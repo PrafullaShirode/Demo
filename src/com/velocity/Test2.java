@@ -9,9 +9,10 @@ public class Test2 {
 		set.add(10);
 		set.add(20);
 		set.add(30);
-		for(Integer a:set) {
-			System.out.println(a);
-		}
+		//for(Integer a:set) {
+			//System.out.println(a);
+		//}
+		System.out.println(set);
 	}
 
 }
